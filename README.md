@@ -5,7 +5,7 @@ This repository contains the automated test cases for the QA Challenge project. 
 ---
 
 ## Postman Tests
-The test cases were automated in Postman.  
+The test cases were automated in Postman in the workspace **QA Challenge**.  
 
 🔗 **Postman Collection:** [Open Postman Collection](https://app.getpostman.com/join-team?invite_code=03088b1cec729bc6551fb27ab539d7ab9872556ed495ab4b4a0019305b8a9744&target_code=629b73dafefed12326f2704d44ff08a9)
 
